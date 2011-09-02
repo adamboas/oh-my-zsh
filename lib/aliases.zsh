@@ -22,3 +22,15 @@ alias ll='ls -l'
 alias sl=ls # often screw this up
 
 alias afind='ack-grep -il'
+
+#git aliases
+alias g="git"
+alias gs="git status"
+alias gl="git pull"
+
+#rails aliases
+alias s="bundle exec rspec"
+alias cuc="bundle exec cucumber"
+alias gi="gem install"
+alias giv="gem install -v"
+alias be="bundle exec"
