@@ -23,3 +23,5 @@ else
 fi
 
 unset config_file
+
+export PATH=/usr/local/bin:$PATH
